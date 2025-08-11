@@ -1,4 +1,3 @@
-# Coursy
 # 📚 Coursy
 
 **Coursy** est une application mobile scolaire (en dev) qui aide les élèves à scanner leurs cours, générer des questions de révision et organiser leur travail, avec une intégration (si j'y arrive) à l’API
